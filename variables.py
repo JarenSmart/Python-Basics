@@ -10,7 +10,7 @@ print(name)
 
 random_float_num = 3.24  # Float
 
-print(randomFloatNum)  # Prints float num or int in console.
+print(random_float_num)  # Prints float num or int in console.
 
 # This is a boolean --> This can either be set to True or False.
 logged_in = False
